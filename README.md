@@ -8,11 +8,12 @@ The Active Directory Home Lab project focused on setting up and securing an AD e
 ### 💡 Skills Learned
 [Bullet Points]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Active Directory Management: Expertise in domain and user management, group policies, and AD architecture.
+- Authentication Security: Configured secure authentication protocols such as Kerberos, NTLM, and MFA.
+- Privilege Management: Implemented least-privilege policies and monitored for privilege escalation.
+- Security Hardening: Applied AD hardening techniques by minimizing attack surfaces and enforcing security policies.
+- Threat Detection & Response: Simulated attacks and developed detection and incident response strategies.
+- Log Analysis: Monitored AD using tools like Event Viewer, Sysmon, and PowerShell for anomaly detection and auditing.
 
 ### 🛠️ Tools Used
 [Bullet Points]
