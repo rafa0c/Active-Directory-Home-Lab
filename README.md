@@ -18,9 +18,13 @@ The Active Directory Home Lab project focused on setting up and securing an AD e
 ### 🛠️ Tools Used
 [Bullet Points]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows Server: Set up and configured Active Directory, including Domain Controllers (DC), Group Policy, and DNS services.
+- PowerShell: Automated AD management tasks, such as user creation, policy enforcement, and security monitoring.
+- Windows Event Viewer: Monitored and analyzed security logs for detecting abnormal behavior or attack attempts.
+- LDAP (Lightweight Directory Access Protocol): Used for managing and querying AD objects and authentication services.
+- Microsoft RSAT (Remote Server Administration Tools): Administered AD components, such as Group Policy Management and DNS, remotely.
+- Virtualization Software (VMware/VirtualBox): Created virtual environments for testing AD configurations and attacks.
+- MITRE ATT&CK Framework: Used as a reference for simulating real-world attack techniques and tactics within the AD environment.
 
 ## 🔧 Steps Involved
 drag & drop screenshots here or use imgur and reference them using imgsrc
