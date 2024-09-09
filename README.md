@@ -42,12 +42,12 @@ Ref 2: Virtual box  <br/>
 <img src="https://i.imgur.com/JBuHLhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add users in Active Directory: <br/>
+Ref 3: Add users in AD: <br/>
 <img src="https://i.imgur.com/Q4Z5WU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ref 4: User Name File  <br/>
+<img src="https://i.imgur.com/5k8YM8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
@@ -55,7 +55,7 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="htt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[Imgur](https://i.imgur.com/5k8YM8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
