@@ -59,7 +59,7 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gYMjKl3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Home Portfolio</a>
