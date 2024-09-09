@@ -50,8 +50,8 @@ Ref 4: User Name File  <br/>
 <img src="https://i.imgur.com/5k8YM8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="htt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ref 5: PowerShell script for new users   <br/>
+<img src="https://i.imgur.com/kkaRJED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
