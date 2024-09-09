@@ -33,6 +33,13 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
+📊 Outcome
+70% reduction in false positive alerts, allowing analysts to focus on real threats.
+
+50% improvement in incident response times due to automated escalation.
+
+Enhanced SOC efficiency and improved collaboration through automated workflows.
+
 <p align="center">
 Ref 1: Network Diagram<br/>
 <img src="https://i.imgur.com/RAuqxAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
