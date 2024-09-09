@@ -33,7 +33,34 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
-*Ref 1: Network Diagram*
+<p align="center">
+Ref 1: Network Diagram<br/>
+<img src="https://i.imgur.com/RAuqxAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ref 2: Virtual box  <br/>
+<img src="https://i.imgur.com/JBuHLhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add users in Active Directory: <br/>
+<img src="https://i.imgur.com/Q4Z5WU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="htt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="htt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Home Portfolio</a>
 
