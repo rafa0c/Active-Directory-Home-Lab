@@ -33,7 +33,7 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
-📊 Outcome
+##📊 Outcome
 70% reduction in false positive alerts, allowing analysts to focus on real threats.
 
 50% improvement in incident response times due to automated escalation.
