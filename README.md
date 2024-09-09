@@ -54,12 +54,12 @@ Ref 5: PowerShell script for new users   <br/>
 <img src="https://i.imgur.com/kkaRJED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="[Imgur](https://i.imgur.com/5k8YM8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ref 6: create the new users   <br/>
+<img src="https://i.imgur.com/gYMjKl3.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/gYMjKl3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="ht" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - <a href="https://github.com/rafa0c/Active-Directory-Home-Lab">Home Portfolio</a>
