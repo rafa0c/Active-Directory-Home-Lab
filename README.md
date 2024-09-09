@@ -29,16 +29,12 @@ The Active Directory Home Lab project focused on setting up and securing an AD e
 - MITRE ATT&CK Framework: Used as a reference for simulating real-world attack techniques and tactics within the AD environment.
 
 ## 🔧 Steps Involved
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
+-  step here
+-  more step here
 
 ## 📊 Outcome
-70% reduction in false positive alerts, allowing analysts to focus on real threats.
-
-50% improvement in incident response times due to automated escalation.
-
-Enhanced SOC efficiency and improved collaboration through automated workflows.
+- resolution
+- concultion
 
 <p align="center">
 Ref 1: Network Diagram<br/>
