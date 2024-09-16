@@ -3,12 +3,12 @@
 - <a href="https://github.com/rafa0c">Home Portfolio</a>
 
 ## 🎯 Objective
-[Brief Objective]
+
 
 The Active Directory Home Lab project focused on setting up and securing an AD environment to simulate real-world enterprise scenarios. The lab provided hands-on experience in managing domains, users, and group policies, as well as configuring secure authentication methods like Kerberos and enforcing least-privilege access. By simulating common AD attacks (e.g., pass-the-hash, golden ticket), the lab also demonstrated detection techniques and incident response strategies. This project significantly improved my understanding of AD architecture, security hardening, and monitoring practices to safeguard critical infrastructure.
 
 ### 💡 Skills Learned
-[Bullet Points]
+
 
 - Active Directory Management: Expertise in domain and user management, group policies, and AD architecture.
 - Authentication Security: Configured secure authentication protocols such as Kerberos, NTLM, and MFA.
